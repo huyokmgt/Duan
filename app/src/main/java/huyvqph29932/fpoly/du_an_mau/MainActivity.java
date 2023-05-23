@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         demoDB demoDB = new demoDB(getApplicationContext());
-        demoDB.thanhVien();
+        demoDB.thanhVien();/// gfgfg
     }
 }
